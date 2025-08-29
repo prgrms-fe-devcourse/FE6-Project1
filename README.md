@@ -1,4 +1,4 @@
-#NOTION_CLONING
+# NOTION_CLONING
 
 브랜치 규칙은 "FE6_Project_1_#팀(숫자)_팀명"
 
